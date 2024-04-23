@@ -1,6 +1,6 @@
-# Carla gomes neto
+# Carla Gomes Neto
 
-Profissional de tecnologia, aluna aprendendo de formação profissinal no **SENAI-SP**. Tenha 37 anos, sou Solteira, estudar e Divertir-se.
+Profissional de tecnologia, aluna aprendendo de formação profissinal no **SENAI-SP**. TenhO 37 anos, solteira, gosto de estudar e me divirto com isso.
 
 ## Formação
 
@@ -62,7 +62,7 @@ Professor Joao me ensino Programador,eu aprender,treinamentoeestudando. Bondade 
 <!-- Exemplo acima é equivalente a :<blockquote>"Ele me ensino no curso conseguir aprende"(Prof.Joao)</blockquote> -->
 
 
-### Alguma tags HTML que estou aprendendo:
+### Algumas tags HTML que estou aprendendo:
 
 ```html
 <!DOCTYPE html>
