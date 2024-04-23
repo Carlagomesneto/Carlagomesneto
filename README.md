@@ -28,7 +28,7 @@ o que vamos fazer em seguida:
 1. Terminar o arquivo README
 2. Fazer commit (comitar)
 3. Abrir o repositório
-# Itustração de Dessenvolvedores pessoas de profissional mulher sou surda aprendendo
+# Ilustração de Dessenvolvedores pessoas de profissional mulher sou surda aprendendo
 <!--
 **Carlagomesneto/Carlagomesneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
