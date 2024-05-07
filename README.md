@@ -1,6 +1,6 @@
 # Carla Gomes Neto
 
-Profissional de tecnologia, aluna aprendendo de formação profissinal no **SENAI-SP**. Tenho 37 anos, solteira, gosto de estudar e me divertir-se viagem com isso.
+Aprendiz de tecnologia, em formação profissinal no **SENAI-SP**. Tenho 37 anos, solteira, gosto de estudar e viajar.
 
 ## Formação
 
