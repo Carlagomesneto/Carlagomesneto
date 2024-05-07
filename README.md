@@ -24,11 +24,8 @@ Aprendiz de tecnologia, em formação profissinal no **SENAI-SP**. Tenho 37 anos
 
 Pesquise "Markdown" em <https://google.com>  <!-- Link direto, sem texto -->
 
-o que vamos fazer em seguida: 
-1. Terminar o arquivo README
-2. Fazer commit (comitar)
-3. Abrir o repositório
-# Ilustração de Dessenvolvedores pessoas de profissional mulher sou surda aprendendo
+
+# Ilustração de Desenvolvedores: Sou mulher, surda em constante aprendizado.
 <!--
 **Carlagomesneto/Carlagomesneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,20 +44,15 @@ Here are some ideas to get you started:
 ![Ilustração de dois desenvolvedores](https://img.freepik.com/vetores-premium/conceito-de-design-ui-ux-com-cena-de-pessoas-para-web-designer-de-mulher-trabalhando-com-layouts-de-interface-criando-elementos-e-preenchendo-paginas-com-conteudo-grafico-ilustracao-vetorial-em-design-de-perspectiva-plana_198565-2144.jpg?w=360)
 
 
-Professor Joao me ensino Programador,eu aprender,treinamentoeestudando. Bondade e educação.  Te agradeço
 
 
 ### Costumo sempre dizer:
 
-> "Não perguiçosa fazer esforça e gurreira" (Aluna Carla)
+> "Não podemos ter preguiça, é necessário ESFORÇO" 
 
-> "Ele me ensino no curso conseguir aprende"(Prof.Joao)
+> "O curso é o verdadeiro ambiente de erro e acerto"
 
-> "Luta estuda básico curso **_SENAI união e FORD_** tecnologia muito inteligente" **_(Prof. Joao)_**
-
-
-<!-- Exemplo acima é equivalente a :<blockquote>"Ele me ensino no curso conseguir aprende"(Prof.Joao)</blockquote> -->
-
+> "Estou no curso básico de tecnologia:**_SENAI junto com a  FORD_**"
 
 ### Algumas tags HTML que estou aprendendo:
 
